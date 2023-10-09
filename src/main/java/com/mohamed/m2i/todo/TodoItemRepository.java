@@ -1,4 +1,4 @@
-package com.nttdata.ta.todo;
+package com.mohamed.m2i.todo;
 
 import org.springframework.data.repository.CrudRepository;
 

@@ -1,4 +1,4 @@
-package com.nttdata.ta.todo;
+package com.mohamed.m2i.todo;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

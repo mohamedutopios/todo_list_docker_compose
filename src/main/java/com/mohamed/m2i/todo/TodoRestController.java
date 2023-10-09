@@ -1,4 +1,4 @@
-package com.nttdata.ta.todo;
+package com.mohamed.m2i.todo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
